@@ -3,8 +3,8 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 README="$SCRIPT_DIR/README.md"
-COLUMNS=6
-THUMBNAIL_WIDTH=320
+COLUMNS=3
+THUMBNAIL_WIDTH=400
 
 EXTS="png|jpg|jpeg|webp|gif|bmp"
 
