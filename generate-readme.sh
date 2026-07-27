@@ -135,6 +135,15 @@ generate_readme() {
 
     local tmp="$README.tmp"
     {
+	# Instructions
+	printf "> [!NOTE]\n"
+	printf "> Due to large videos and images in this repo, you must install [Git LFS.](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) After installation, run the following:\n"
+	printf "> \`\`\`\n"
+	printf "> git clone https://github.com/1unarzDev/wallpapers\n" 
+	printf "> cd wallpapers\n"
+	printf "> git lfs pull\n"
+	printf "> \`\`\`\n\n"
+
         # Header
         printf "<div align='center'>\n\n"
         printf "# 🖼️  Wallpapers\n\n"

@@ -1,3 +1,11 @@
+> [!NOTE]
+> Due to large videos and images in this repo, you must install [Git LFS.](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage) After installation, run the following:
+> ```
+> git clone https://github.com/1unarzDev/wallpapers
+> cd wallpapers
+> git lfs pull
+> ```
+
 <div align='center'>
 
 # 🖼️  Wallpapers
