@@ -10,7 +10,7 @@
 
 # 🖼️  Wallpapers
 
-**41 wallpapers**  ·  💾 77MB  ·  📐 PNG ×24  JPG ×12  JPEG ×5  
+**42 wallpapers**  ·  💾 77MB  ·  📐 PNG ×24  JPG ×13  JPEG ×5  
 
 </div>
 
@@ -40,40 +40,40 @@
 <td align="center"><a href="bike.jpeg"><img src="bike.jpeg" width="400" alt="bike" title="bike" loading="lazy"/></a></td>
 </tr><tr>
 <td align="center"><a href="shop.jpeg"><img src="shop.jpeg" width="400" alt="shop" title="shop" loading="lazy"/></a></td>
+<td align="center"><a href="beach.jpg"><img src="beach.jpg" width="400" alt="beach" title="beach" loading="lazy"/></a></td>
 <td align="center"><a href="wings.jpg"><img src="wings.jpg" width="400" alt="wings" title="wings" loading="lazy"/></a></td>
-<td align="center"><a href="balloons.jpeg"><img src="balloons.jpeg" width="400" alt="balloons" title="balloons" loading="lazy"/></a></td>
 </tr><tr>
+<td align="center"><a href="balloons.jpeg"><img src="balloons.jpeg" width="400" alt="balloons" title="balloons" loading="lazy"/></a></td>
 <td align="center"><a href="dead-robot.jpg"><img src="dead-robot.jpg" width="400" alt="dead-robot" title="dead-robot" loading="lazy"/></a></td>
 <td align="center"><a href="waves.jpg"><img src="waves.jpg" width="400" alt="waves" title="waves" loading="lazy"/></a></td>
-<td align="center"><a href="town-street.png"><img src="town-street.png" width="400" alt="town-street" title="town-street" loading="lazy"/></a></td>
 </tr><tr>
+<td align="center"><a href="town-street.png"><img src="town-street.png" width="400" alt="town-street" title="town-street" loading="lazy"/></a></td>
 <td align="center"><a href="firewatch.png"><img src="firewatch.png" width="400" alt="firewatch" title="firewatch" loading="lazy"/></a></td>
 <td align="center"><a href="hydrangea.png"><img src="hydrangea.png" width="400" alt="hydrangea" title="hydrangea" loading="lazy"/></a></td>
-<td align="center"><a href="rain-car.jpg"><img src="rain-car.jpg" width="400" alt="rain-car" title="rain-car" loading="lazy"/></a></td>
 </tr><tr>
+<td align="center"><a href="rain-car.jpg"><img src="rain-car.jpg" width="400" alt="rain-car" title="rain-car" loading="lazy"/></a></td>
 <td align="center"><a href="car-alley.png"><img src="car-alley.png" width="400" alt="car-alley" title="car-alley" loading="lazy"/></a></td>
 <td align="center"><a href="space.png"><img src="space.png" width="400" alt="space" title="space" loading="lazy"/></a></td>
-<td align="center"><a href="sky.jpg"><img src="sky.jpg" width="400" alt="sky" title="sky" loading="lazy"/></a></td>
 </tr><tr>
+<td align="center"><a href="sky.jpg"><img src="sky.jpg" width="400" alt="sky" title="sky" loading="lazy"/></a></td>
 <td align="center"><a href="astronaut.png"><img src="astronaut.png" width="400" alt="astronaut" title="astronaut" loading="lazy"/></a></td>
 <td align="center"><a href="torii.jpg"><img src="torii.jpg" width="400" alt="torii" title="torii" loading="lazy"/></a></td>
-<td align="center"><a href="taxi.png"><img src="taxi.png" width="400" alt="taxi" title="taxi" loading="lazy"/></a></td>
 </tr><tr>
+<td align="center"><a href="taxi.png"><img src="taxi.png" width="400" alt="taxi" title="taxi" loading="lazy"/></a></td>
 <td align="center"><a href="rose.png"><img src="rose.png" width="400" alt="rose" title="rose" loading="lazy"/></a></td>
 <td align="center"><a href="tower-distance.png"><img src="tower-distance.png" width="400" alt="tower-distance" title="tower-distance" loading="lazy"/></a></td>
-<td align="center"><a href="flower-reflection.png"><img src="flower-reflection.png" width="400" alt="flower-reflection" title="flower-reflection" loading="lazy"/></a></td>
 </tr><tr>
+<td align="center"><a href="flower-reflection.png"><img src="flower-reflection.png" width="400" alt="flower-reflection" title="flower-reflection" loading="lazy"/></a></td>
 <td align="center"><a href="planet-dust.jpg"><img src="planet-dust.jpg" width="400" alt="planet-dust" title="planet-dust" loading="lazy"/></a></td>
 <td align="center"><a href="mountain.jpg"><img src="mountain.jpg" width="400" alt="mountain" title="mountain" loading="lazy"/></a></td>
-<td align="center"><a href="patterns.png"><img src="patterns.png" width="400" alt="patterns" title="patterns" loading="lazy"/></a></td>
 </tr><tr>
+<td align="center"><a href="patterns.png"><img src="patterns.png" width="400" alt="patterns" title="patterns" loading="lazy"/></a></td>
 <td align="center"><a href="windmill-stars.png"><img src="windmill-stars.png" width="400" alt="windmill-stars" title="windmill-stars" loading="lazy"/></a></td>
 <td align="center"><a href="sky-hill.png"><img src="sky-hill.png" width="400" alt="sky-hill" title="sky-hill" loading="lazy"/></a></td>
-<td align="center"><a href="plane.jpg"><img src="plane.jpg" width="400" alt="plane" title="plane" loading="lazy"/></a></td>
 </tr><tr>
+<td align="center"><a href="plane.jpg"><img src="plane.jpg" width="400" alt="plane" title="plane" loading="lazy"/></a></td>
 <td align="center"><a href="lion.png"><img src="lion.png" width="400" alt="lion" title="lion" loading="lazy"/></a></td>
 <td align="center"><a href="whale.png"><img src="whale.png" width="400" alt="whale" title="whale" loading="lazy"/></a></td>
-<td></td>
 </tr></table>
 
 </div>
