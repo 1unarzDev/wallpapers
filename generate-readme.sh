@@ -141,6 +141,7 @@ generate_readme() {
 	printf "> \`\`\`\n"
 	printf "> git clone https://github.com/1unarzDev/wallpapers\n" 
 	printf "> cd wallpapers\n"
+	printf "> git lfs install\n"
 	printf "> git lfs pull\n"
 	printf "> \`\`\`\n\n"
 

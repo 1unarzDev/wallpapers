@@ -3,6 +3,7 @@
 > ```
 > git clone https://github.com/1unarzDev/wallpapers
 > cd wallpapers
+> git lfs install
 > git lfs pull
 > ```
 
